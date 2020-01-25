@@ -1,0 +1,59 @@
+{
+	"menus": [{
+		"index": "1",
+		"title": "会员管理",
+		"iconClass": "el-icon-edit",
+		"children": [{
+			"index": "/members/collection",
+			"title": "会员收银"
+		}, {
+			"index": "/members/list",
+			"title": "会员列表"
+		}, {
+			"index": "/members/levels",
+			"title": "会员级别"
+		}, {
+			"index": "/members/rights",
+			"title": "会员权益"
+		}, {
+			"index": "/members/integralrules",
+			"title": "积分规则"
+		}]
+	}, {
+		"index": "2",
+		"title": "呼叫中心",
+		"iconClass": "el-icon-plus",
+		"children": [{
+			"index": "2-1",
+			"title": "呼叫面板"
+		},{
+			"index": "2-2",
+			"title": "通话记录"
+		},{
+			"index": "2-3",
+			"title": "工单管理"
+		},{
+			"index": "2-4",
+			"title": "商家列表"
+		},{
+			"index": "2-5",
+			"title": "坐席配置"
+		},{
+			"index": "2-6",
+			"title": "数据中心"
+		},{
+			"index": "2-7",
+			"title": "补贴账户"
+		},{
+			"index": "2-8",
+			"title": "人员分配"
+		},{
+			"index": "2-9",
+			"title": "服务计划"
+		},{
+			"index": "2-10",
+			"title": "工单看板"
+		}]
+	}]
+	
+}

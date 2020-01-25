@@ -1,0 +1,3 @@
+通过axios访问本地json导航条数据，然后用NavMenu将数据循环输出。
+
+其中，定义index为路由路径，iconClass为图标名称。
