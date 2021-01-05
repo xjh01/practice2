@@ -9,7 +9,7 @@
     "mockdata": "cd public/data && json-server members.js"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "core-js": "^3.4.3",
     "element-ui": "^2.13.0",
     "file-saver": "^2.0.2",
